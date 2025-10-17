@@ -1,2 +1,2 @@
 # studying git
-repositório de esudos git/github
+repositório de estudos git/github
